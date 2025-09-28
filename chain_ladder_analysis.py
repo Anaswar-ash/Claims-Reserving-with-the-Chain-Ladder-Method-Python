@@ -4,8 +4,7 @@
 import chainladder as cl
 import matplotlib.pyplot as plt
 
-print("--- Chain-Ladder Analysis Initialized (Python) ---
-")
+print("chain-Ladder Analysis Initialized (Python)")
 
 # --- 1. LOAD DATA ---
 # The python 'chainladder' library also comes with sample datasets.
@@ -51,10 +50,9 @@ print("\n")
 # Get the total IBNR (reserve) estimate
 total_ibnr = cl_model.ibnr_.sum()
 
-print("----------------------------------------------------")
+print("..................................................")
 print(f"Total IBNR (Reserve) Estimate: {total_ibnr:,\.2f}")
-print("----------------------------------------------------
-")
+print("..................................................")
 
 # --- 4. VISUALIZE MODEL FIT AND RESULTS ---
 # The library has a built-in plot method that uses matplotlib.
