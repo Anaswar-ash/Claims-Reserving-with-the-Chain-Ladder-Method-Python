@@ -1,0 +1,21 @@
+# Python specific
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+env/
+.env/
+
+# Instance folder
+instance/
+
+# Generated output files
+*.html
+*.pdf
+*.png
+*.jpg
+*.csv
