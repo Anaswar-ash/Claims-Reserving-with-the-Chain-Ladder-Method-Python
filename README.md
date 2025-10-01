@@ -1,4 +1,5 @@
 # Claims-Reserving-with-the-Chain-Ladder-Method-Python
+# Author: Ash.
 
 This project demonstrates a fundamental actuarial technique—claims reserving using the Chain-Ladder method. It is implemented in Python using the `chainladder` library, a popular choice for actuarial analysis.
 

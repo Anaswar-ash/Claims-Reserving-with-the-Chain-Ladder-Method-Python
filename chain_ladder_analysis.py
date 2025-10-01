@@ -1,5 +1,4 @@
-# Claims Reserving with the Chain-Ladder Method in Python
-# File: chain_ladder_analysis.py
+
 
 import chainladder as cl
 import matplotlib.pyplot as plt
